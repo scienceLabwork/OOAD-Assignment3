@@ -54,7 +54,7 @@ public class cj159{
 
     cj159(){
         // Initialize Labels
-        Frame f = new Frame("21BCM054: Assignments2");
+        Frame f = new Frame("21BCM054: Assignments3");
         Label name = new Label("First Name: ");
         Label mname = new Label("Middle Name: ");
         Label lname = new Label("Last Name: ");
